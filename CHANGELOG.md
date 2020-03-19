@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://www.github.com/googleapis/java-asset/compare/v1.1.0...v1.1.1) (2020-03-19)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-resourcemanager to v0.117.2-alpha ([#98](https://www.github.com/googleapis/java-asset/issues/98)) ([4c5cbd1](https://www.github.com/googleapis/java-asset/commit/4c5cbd12c9780dde0ea00f231e1adedfa6c192ef))
+
 ## [1.1.0](https://www.github.com/googleapis/java-asset/compare/v1.0.0...v1.1.0) (2020-03-13)
 
 
